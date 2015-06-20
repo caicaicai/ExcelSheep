@@ -1,0 +1,16 @@
+{
+"configs" : [
+  {
+"name" : "SPFL2",
+"queryStr" : " Column2 = 'SPFL2'"}
+,
+  {
+"name" : "SPFL3",
+"queryStr" : " Column2 = 'SPFL3'"}
+,
+  {
+"name" : "SPFL31",
+"queryStr" : " Column2 = 'SPFL3'"}
+
+],
+"filterString" : " Column2 IN ('SPFL2', 'SPFL3')"}

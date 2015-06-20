@@ -1,0 +1,6 @@
+C:\Users\94763_000\Desktop\epplus-e78148246d2e\epplus_e78148246d2e\EPPlus\bin\Debug\EPPlus.XML
+C:\Users\94763_000\Desktop\epplus-e78148246d2e\epplus_e78148246d2e\EPPlus\bin\Debug\EPPlus.dll
+C:\Users\94763_000\Desktop\epplus-e78148246d2e\epplus_e78148246d2e\EPPlus\bin\Debug\EPPlus.pdb
+C:\Users\94763_000\Desktop\epplus-e78148246d2e\epplus_e78148246d2e\EPPlus\obj\Debug\EPPlus.csprojResolveAssemblyReference.cache
+C:\Users\94763_000\Desktop\epplus-e78148246d2e\epplus_e78148246d2e\EPPlus\obj\Debug\EPPlus.dll
+C:\Users\94763_000\Desktop\epplus-e78148246d2e\epplus_e78148246d2e\EPPlus\obj\Debug\EPPlus.pdb

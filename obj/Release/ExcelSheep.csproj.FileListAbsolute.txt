@@ -1,0 +1,12 @@
+D:\excel\ExcelSheep\ExcelSheep\obj\Release\ExcelSheep.csproj.ResolveComReference.cache
+D:\excel\ExcelSheep\ExcelSheep\obj\Release\ExcelSheep.ExcelSheep.resources
+D:\excel\ExcelSheep\ExcelSheep\obj\Release\ExcelSheep.Properties.Resources.resources
+D:\excel\ExcelSheep\ExcelSheep\obj\Release\ExcelSheep.csproj.GenerateResource.Cache
+D:\excel\ExcelSheep\ExcelSheep\bin\Release\ExcelSheep.exe.config
+D:\excel\ExcelSheep\ExcelSheep\bin\Release\ExcelSheep.exe
+D:\excel\ExcelSheep\ExcelSheep\bin\Release\ExcelSheep.pdb
+D:\excel\ExcelSheep\ExcelSheep\obj\Release\ExcelSheep.exe
+D:\excel\ExcelSheep\ExcelSheep\obj\Release\ExcelSheep.pdb
+D:\excel\ExcelSheep\ExcelSheep\obj\Release\ExcelSheep.csprojResolveAssemblyReference.cache
+D:\excel\ExcelSheep\ExcelSheep\obj\Release\ExcelSheep.AddDataFilter.resources
+D:\excel\ExcelSheep\ExcelSheep\obj\Release\ExcelSheep.AddExport.resources
